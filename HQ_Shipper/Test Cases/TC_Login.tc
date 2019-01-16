@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a841aa69-a879-4d68-b730-56c449c45d43</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d2fc0cc-37f8-4a43-aebe-d27ecdc23fb2</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>594559c1-e4ac-4d5b-b3c1-0ea989e54100</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e088320e-14b6-46b5-aeb9-f7f6eabd0bff</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c93dd47e-932f-43a4-b1a1-b964706b132e</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6650aec-f0b8-4d1a-ad19-9c8226ab5d1d</id>
+      <masked>false</masked>
+      <name>variable_3</name>
+   </variable>
+</TestCaseEntity>
